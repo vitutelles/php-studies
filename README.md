@@ -1,9 +1,10 @@
-# Currency Converter
+# Form studies in php
 
-### Currency Converter with current real data from the central bank of Brazil.
+### GET method form tests
 
-#PHP
-#JAVASCRIPT
-#CSS
-#HTML
-#XAMPP
+* MYSQL
+* PHP
+* JAVASCRIPT
+* CSS
+* HTML
+* XAMPP
